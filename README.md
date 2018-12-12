@@ -1,4 +1,4 @@
-# Runner-Style
+# Runner-Style ![image](https://github.com/ttvkenvin/Runner-Style/blob/master/icon-83.5%402x.png)
 [English Download](https://github.com/ttvkenvin/Runner-Style)     
 Runner Style(Open Source),a runens GPS social running app,based on 	AMAP and HealthKit。
 
@@ -35,3 +35,6 @@ The bar chart shows the calories burned.
 
 
 We need to get Apple's health-sharing data to calculate the calorie burned so that we can plot the data and visually see the calories burned every day.
+
+# Please contact us if you have any questions: hetrytu125@gmail.com!
+# Thank you for your support
