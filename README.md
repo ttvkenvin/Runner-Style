@@ -1,4 +1,6 @@
-# Runner-Style ![image](https://github.com/ttvkenvin/Runner-Style/blob/master/icon-83.5%402x.png)
+![image](https://github.com/ttvkenvin/Runner-Style/blob/master/icon-83.5%402x.png)
+
+# Runner-Style 
 [English Download](https://github.com/ttvkenvin/Runner-Style)     
 Runner Style(Open Source),a runens GPS social running app,based on 	AMAP and HealthKit。
 
